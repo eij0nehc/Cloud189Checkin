@@ -74,7 +74,7 @@ npm start
 
 ## 更新内容
 
-### 2023-06-09
+### 2023-06-29
 [添加错误重试](https://github.com/wes-lin/Cloud189Checkin/issues/14)
 ### 2023-06-05
 [支持Server酱推送](https://github.com/wes-lin/Cloud189Checkin/issues/8)
